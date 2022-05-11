@@ -1,2 +1,2 @@
 # git-parameter
-This is 'main' branch commit untagged
+This is 'dev' branch commit tagged 'v2-dev'
